@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<!--ROUTE 2: FARM-->
-<html>
- <pre>
-                                                             ▒▒▒▒▒▒▒▒         
+                                                           ▒▒▒▒▒▒▒▒         
     *                 *                                ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    *
                                        *       *      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    
                                                       ▒▒▒▒▒▒▒       ▒▒▒▒    
@@ -24,9 +20,4 @@
 *                               *               *                           
    *                                                                        
                       *                                                     
-          *                                 *                            *        
-</pre>
-    <h2><body>As you get closer to the fence, you look up at the night sky. Wait…what is that?</body></h2>
-<h3><a href="page-11.html">NEXT</a></h3>
-
-</html>
+          *                                 *                            *  
