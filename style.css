@@ -1,3 +1,22 @@
 body{
     background-color: rgb(255, 221, 99);
 }
+
+h1{
+    text-align: center;
+}
+
+hr.dotted{
+    border-top: 6px dotted #000000;
+}
+hr{
+    border-color: #000000;
+}
+
+
+img{
+    margin-top: 100px;
+}
+
+
+
