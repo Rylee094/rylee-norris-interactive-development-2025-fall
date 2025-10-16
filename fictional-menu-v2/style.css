@@ -1,0 +1,94 @@
+/*BG IMAGE*/
+body{
+   background-image: url(media/bg-image.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+
+/*MENU TITLE*/
+@font-face {
+   font-family: Constance;
+   src: url(fonts/Constance-7BLXE.otf);
+}
+h1{
+   text-align: center;
+   font-family: Constance;
+   color: black;
+   border-style: dashed;
+   border-width: 5px;
+   background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+/*AUDIO*/
+.web-audio{
+  display: grid;
+  place-items: center;
+}
+
+
+/*CONTENT*/
+
+h2{
+text-align: center;
+vertical-align: middle;
+font-family: Constance;
+}
+p{
+text-align: center;
+vertical-align: middle;
+font-family: "Nunito", sans-serif;
+font-weight: 500;
+}
+
+.container{ 
+   position: relative;
+   top: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   column-gap: 20px;
+}
+.box-1{
+   height: 400px;
+   width: 400px;
+   border-style: dashed;
+   border-width: 5px;
+   background-color: rgba(255, 255, 255, 0.834);
+}
+
+.box-2{
+   height: 400px;
+   width: 400px;
+  border-style: dashed;
+   border-width: 5px;
+   background-color: rgba(255, 255, 255, 0.834);
+}
+
+/*SPECIALS*/
+.container-2{
+  position: absolute;
+  top: 700px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.box-3{
+   height: 200px;
+   width: 600px;
+  border-style: dashed;
+   border-width: 5px;
+   background-color: rgba(255, 255, 255, 0.834);
+}
+
+
+
+
+
+
+
+
+
