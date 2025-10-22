@@ -3,8 +3,18 @@ h1{
     margin-top: 200px;
 }
 
+/*LINKS*/
 a{
     display: block;
     margin-bottom: 20px;
     text-align: center;
+    color: green;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
