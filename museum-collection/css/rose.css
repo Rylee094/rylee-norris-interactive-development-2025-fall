@@ -29,7 +29,7 @@ a{
     display: block;
     margin-bottom: 20px;
     text-align: center;
-    color: rgb(5, 82, 5);
+    color: red;
     text-decoration: none;
     transition: color 0.3s ease;
 }
