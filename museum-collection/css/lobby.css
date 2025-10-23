@@ -15,8 +15,29 @@ body{
     min-height: 100vh;
 }
 
-/*POMES*/
+/*LINKS*/
+a{
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(5, 82, 5);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+a:hover{
+    color: rgb(184, 236, 161);
+    text-decoration: underline;
+}
 
+/*RETURN LINK*/
+footer{
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/*POMES*/
 .rose{
     margin-top: 100px;
     margin-left: 50px;
@@ -36,12 +57,6 @@ body{
 }
 
 
-/*RETURN LINK*/
-footer{
-    padding: 20px;
-    text-align: center;
-    margin-top: 100px;
-}
 
 
 

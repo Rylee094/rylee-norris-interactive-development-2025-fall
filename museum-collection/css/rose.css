@@ -1,10 +1,42 @@
 h1{
     text-align: center;
     margin-top: 50px;
+    color: red;
 }
 
-/*POME*/
+body{
+    background-color: black;
+}
 
+/*SCROLLABLE CONTAINER*/
+.scrollable-container{
+    height: 500px;
+    width: 300px;
+    border: 5px solid red;
+    padding: 10px;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.scrollable-container p{
+    color: red;
+    text-align: center;
+}
+
+
+/*LINKS*/
+a{
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(5, 82, 5);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+a:hover{
+    color: rgb(184, 236, 161);
+    text-decoration: underline;
+}
 
 /*RETURN LINK*/
 footer{
