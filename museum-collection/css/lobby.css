@@ -7,12 +7,34 @@ h2{
     margin-top: 50px;
 }
 
+/*BACKGROUND GRADIENT*/
+body{
+    background-image:linear-gradient(to top, #6AB547, #74cae7) ;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
 /*POMES*/
 
 .rose{
     margin-top: 100px;
     margin-left: 50px;
 }
+.rose a{
+      display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(143, 8, 8);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.rose a:hover{
+      color: rgb(225, 38, 38);
+    text-decoration: underline;
+}
+
 
 /*RETURN LINK*/
 footer{
@@ -20,6 +42,7 @@ footer{
     text-align: center;
     margin-top: 100px;
 }
+
 
 
 

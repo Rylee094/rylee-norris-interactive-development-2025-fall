@@ -3,18 +3,26 @@ h1{
     margin-top: 200px;
 }
 
+/*BACKGROUND GRADIENT*/
+body{
+    background-image:linear-gradient(to top, #6AB547, #74cae7) ;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
 /*LINKS*/
 a{
     display: block;
     margin-bottom: 20px;
     text-align: center;
-    color: green;
+    color: rgb(5, 82, 5);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover{
-    color: blue;
+    color: rgb(184, 236, 161);
     text-decoration: underline;
 }
 
