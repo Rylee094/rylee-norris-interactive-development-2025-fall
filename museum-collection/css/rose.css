@@ -1,7 +1,15 @@
 h1{
+    font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
     text-align: center;
     margin-top: 50px;
     color: red;
+}
+p{
+    font-family: "Rosarivo", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 body{
@@ -26,6 +34,7 @@ body{
 
 /*LINKS*/
 a{
+   font-family: "Gabarito", sans-serif;
     display: block;
     margin-bottom: 20px;
     text-align: center;
