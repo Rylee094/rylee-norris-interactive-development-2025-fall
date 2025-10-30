@@ -1,58 +1,68 @@
-h1{
-    font-family: "Quintessential", serif;
-  font-weight: 400;
-  font-style: normal;
-    text-align: center;
-    margin-top: 50px;
-    color: red;
-}
-p{
-    font-family: "Rosarivo", cursive;
-    font-weight: 400;
-    font-style: normal;
-}
+
 
 body{
-    background-color: black;
+   background-color: black;
 }
 
-/*SCROLLABLE CONTAINER*/
-.scrollable-container{
-    height: 500px;
-    width: 300px;
-    border: 5px solid red;
-    padding: 10px;
-    overflow: auto;
-    margin-left: auto;
-    margin-right: auto;
+h1{
+   font-family: "Quintessential", serif;
+ font-weight: 400;
+ font-style: normal;
+   text-align: center;
+   margin-top: 50px;
+   color: red;
 }
-.scrollable-container p{
-    color: red;
-    text-align: center;
+p{
+  font-family: "Rosarivo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: red;
 }
 
+/*BUTTONS*/
+#Button2{
+    margin-top: 50px;
+}
+
+#Button3{
+    margin-top: 50px;
+}
+
+/*TEXT*/
+#Line1 {
+  transition: opacity 1s ease-in-out;
+  display: inline-block;
+}
+
+#Line2 {
+  display: inline-block;
+  transition: opacity 1s ease-in-out;
+}
+
+#Line3 {
+  display: inline-block;
+  transition: opacity 1s ease-in-out;
+}
 
 /*LINKS*/
 a{
-   font-family: "Gabarito", sans-serif;
-    display: block;
-    margin-bottom: 20px;
-    text-align: center;
-    color: red;
-    text-decoration: none;
-    transition: color 0.3s ease;
+  font-family: "Gabarito", sans-serif;
+   display: block;
+   margin-bottom: 20px;
+   text-align: center;
+   color: red;
+   text-decoration: none;
+   transition: color 0.3s ease;
 }
 a:hover{
-    color: rgb(184, 236, 161);
-    text-decoration: underline;
+   color: rgb(184, 236, 161);
+   text-decoration: underline;
 }
 
 /*RETURN LINK*/
 footer{
-    padding: 20px;
-    text-align: center;
-    margin-top: 60px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 60px;
 }
-
-
 
