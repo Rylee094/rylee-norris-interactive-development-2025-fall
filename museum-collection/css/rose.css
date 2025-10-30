@@ -35,7 +35,8 @@ p{
     padding: 5px;
     border: 2px solid red;
     background-color: black;
-    margin-top: 50px;
+    margin-left: auto;
+    margin-right: 70px;
 }
 
 #Button3{
@@ -207,6 +208,7 @@ p{
 }
 
 #Line2 {
+  margin-left: 80%;
   display: inline-block;
   transition: opacity 1s ease-in-out;
 }
