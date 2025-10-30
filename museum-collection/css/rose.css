@@ -54,7 +54,8 @@ p{
     padding: 5px;
     border: 2px solid red;
     background-color: black;
-    margin-top: 50px;
+    margin-top: 70px;
+    margin: 0 auto;
 }
 
 #Button5{
@@ -63,7 +64,8 @@ p{
     padding: 5px;
     border: 2px solid red;
     background-color: black;
-    margin-top: 50px;
+     margin-top: 70px;
+    margin: 0 auto;
 }
 
 #Button6{
@@ -72,7 +74,8 @@ p{
     padding: 5px;
     border: 2px solid red;
     background-color: black;
-    margin-top: 50px;
+     margin-top: 70px;
+    margin: 0 auto;
 }
 
 #Button7{
@@ -219,16 +222,19 @@ p{
 }
 
 #Line4 {
+  margin-left: 48%;
   display: inline-block;
   transition: opacity 1s ease-in-out;
 }
 
 #Line5 {
+  margin-left: 48%;
   display: inline-block;
   transition: opacity 1s ease-in-out;
 }
 
 #Line6 {
+  margin-left: 39%;
   display: inline-block;
   transition: opacity 1s ease-in-out;
 }
