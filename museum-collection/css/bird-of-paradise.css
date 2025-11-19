@@ -1,32 +1,32 @@
 
 
 body{
-   background-color: black;
+   background-color: rgb(255, 147, 46);
 }
 
 h1{
-   font-family: "Quintessential", serif;
- font-weight: 400;
- font-style: normal;
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
    text-align: center;
    margin-top: 50px;
-   color: red;
+   color: rgb(33, 14, 143);
 }
 p{
-  font-family: "Rosarivo", cursive;
-  font-weight: 400;
+  font-family: "Spectral", serif;
+  font-weight: 700;
   font-style: normal;
-  color: red;
+  color: rgb(33, 14, 143);
 }
 
 /*BUTTONS*/
 
 #Button1{
     font-size: small;
-    color: red;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
 }
 #Button1:hover{
@@ -36,10 +36,10 @@ p{
 
 #Button2{
      font-size: small;
-    color: red;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-left: auto;
     margin-right: 70px;
 }
@@ -49,11 +49,11 @@ p{
 }
 
 #Button3{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
 }
 #Button3:hover{
@@ -62,11 +62,11 @@ p{
 }
 
 #Button4{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 70px;
     margin: 0 auto;
 }
@@ -76,11 +76,11 @@ p{
 }
 
 #Button5{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
      margin-top: 70px;
     margin: 0 auto;
 }
@@ -90,11 +90,11 @@ p{
 }
 
 #Button6{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
      margin-top: 70px;
     margin: 0 auto;
 }
@@ -105,10 +105,10 @@ p{
 
 #Button7{
     font-size: small;
-    color: red;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
      margin-left: 10%;
 }
@@ -118,11 +118,11 @@ p{
 }
 
 #Button8{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 20%;
 }
@@ -132,11 +132,11 @@ p{
 }
 
 #Button9{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 50%;
 }
@@ -146,11 +146,11 @@ p{
 }
 
 #Button10{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 20px;
     margin-left: 50%;
 }
@@ -160,11 +160,11 @@ p{
 }
 
 #Button11{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 50%;
 }
@@ -174,11 +174,11 @@ p{
 }
 
 #Button12{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 50px;
 }
@@ -188,11 +188,11 @@ p{
 }
 
 #Button13{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 60px;
 }
@@ -202,11 +202,11 @@ p{
 }
 
 #Button14{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 200px;
 }
@@ -216,11 +216,11 @@ p{
 }
 
 #Button15{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 300px;
 }
@@ -230,11 +230,11 @@ p{
 }
 
 #Button16{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -244,11 +244,11 @@ p{
 }
 
 #Button17{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -258,11 +258,11 @@ p{
 }
 
 #Button18{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -272,11 +272,11 @@ p{
 }
 
 #Button19{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -286,11 +286,11 @@ p{
 }
 
 #Button20{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -300,11 +300,11 @@ p{
 }
 
 #Button21{
-     font-size: small;
-    color: red;
+    font-size: small;
+    color: rgb(33, 14, 143);
     padding: 5px;
-    border: 2px solid red;
-    background-color: black;
+    border: 2px solid rgb(33, 14, 143);
+    background-color: rgb(255, 147, 46);
     margin-top: 50px;
     margin-left: 46%;
 }
@@ -453,7 +453,7 @@ a{
    display: block;
    margin-bottom: 20px;
    text-align: center;
-   color: red;
+   color: rgb(33, 14, 143);
    text-decoration: none;
    transition: color 0.3s ease;
 }
