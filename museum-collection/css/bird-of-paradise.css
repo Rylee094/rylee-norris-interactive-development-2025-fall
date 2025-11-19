@@ -1,449 +1,39 @@
 
 
 body{
-   background-color: rgb(255, 147, 46);
+   background-color: black;
 }
 
 h1{
-  font-family: "Tangerine", cursive;
-  font-weight: 700;
-  font-style: normal;
+   font-family: "Quintessential", serif;
+ font-weight: 400;
+ font-style: normal;
    text-align: center;
    margin-top: 50px;
-   color: rgb(33, 14, 143);
-}
-p{
-  font-family: "Spectral", serif;
-  font-weight: 700;
-  font-style: normal;
-  color: rgb(33, 14, 143);
+   color: red;
 }
 
 /*BUTTONS*/
 
 #Button1{
     font-size: small;
-    color: rgb(33, 14, 143);
+    color: red;
     padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
+    border: 2px solid red;
+    background-color: black;
     margin-top: 50px;
 }
 #Button1:hover{
    color: white;
    border: 2px solid white;
 }
-
-#Button2{
-     font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-left: auto;
-    margin-right: 70px;
-}
-#Button2:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button3{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-}
-#Button3:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button4{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 70px;
-    margin: 0 auto;
-}
-#Button4:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button5{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-     margin-top: 70px;
-    margin: 0 auto;
-}
-#Button5:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button6{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-     margin-top: 70px;
-    margin: 0 auto;
-}
-#Button6:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button7{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-     margin-left: 10%;
-}
-#Button7:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button8{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 20%;
-}
-#Button8:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button9{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 50%;
-}
-#Button9:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button10{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 20px;
-    margin-left: 50%;
-}
-#Button10:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button11{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 50%;
-}
-#Button11:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button12{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 50px;
-}
-#Button12:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button13{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 60px;
-}
-#Button13:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button14{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 200px;
-}
-#Button14:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button15{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 300px;
-}
-#Button15:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button16{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button16:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button17{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button17:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button18{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button18:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button19{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button19:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button20{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button20:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button21{
-    font-size: small;
-    color: rgb(33, 14, 143);
-    padding: 5px;
-    border: 2px solid rgb(33, 14, 143);
-    background-color: rgb(255, 147, 46);
-    margin-top: 50px;
-    margin-left: 46%;
-}
-#Button21:hover{
-   color: white;
-   border: 2px solid white;
-}
-
 /*TEXT*/
 #Line1 {
-  transition: opacity 1s ease-in-out;
-  display: inline-block;
-}
-
-#Line2 {
-  margin-left: 80%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line3 {
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line4 {
-  margin-left: 48%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line5 {
-  margin-left: 48%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line6 {
-  margin-left: 39%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line7 {
-  margin-left: 10%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line8 {
-  margin-left: 20%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line9 {
-  margin-left: 48%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line10 {
-  margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line11 {
-  margin-top: 5px;
-  margin-left: 44%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line12 {
-  margin-left: 9%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line13 {
-  margin-left: 10%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line14 {
-  margin-left: 20%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line15 {
-  margin-left: 30%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line16 {
-   margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line17 {
-  margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line18 {
-  margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line19 {
-  margin-top: 5px;
-  margin-left: 47.2%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line20 {
-  margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
-}
-
-#Line21 {
-  margin-top: 5px;
-  margin-left: 46%;
-  display: inline-block;
-  transition: opacity 1s ease-in-out;
+   display: none;
+   font-family: "Rosarivo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: red;
 }
 
 
@@ -453,7 +43,7 @@ a{
    display: block;
    margin-bottom: 20px;
    text-align: center;
-   color: rgb(33, 14, 143);
+   color: red;
    text-decoration: none;
    transition: color 0.3s ease;
 }
