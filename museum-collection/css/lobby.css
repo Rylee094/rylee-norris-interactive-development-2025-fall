@@ -70,6 +70,30 @@ footer{
 }
 
 
+.bird-of-paradise{
+   font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    font-size:x-large;
+    margin-top: 100px;
+    text-align: center;
+}
+.bird-of-paradise a{
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(213, 114, 26);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.bird-of-paradise a:hover{
+    color: rgb(255, 184, 121);
+    text-decoration: underline;
+}
+
+
 
 
 
