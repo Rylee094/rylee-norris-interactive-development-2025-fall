@@ -20,7 +20,7 @@ $(document).ready(function() {
   $("# ").click(function() {
     $("# ").fadeIn(); 
     $("# ").show();
-  });
+  })
 });
 
 //BUTTON 4//
@@ -159,10 +159,3 @@ $(document).ready(function() {
   });
 });
 
-//BUTTON 21//
-$(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
-  });
-});
