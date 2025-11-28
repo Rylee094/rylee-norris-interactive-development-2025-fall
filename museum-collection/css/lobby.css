@@ -65,7 +65,7 @@ footer{
 }
 
 .rose a:hover{
-      color: rgb(225, 38, 38);
+      color: rgb(255, 120, 120);
     text-decoration: underline;
 }
 
@@ -89,7 +89,7 @@ footer{
 }
 
 .bird-of-paradise a:hover{
-    color: rgb(255, 184, 121);
+    color: rgb(255, 210, 171);
     text-decoration: underline;
 }
 
@@ -106,17 +106,17 @@ footer{
     display: block;
     margin-bottom: 20px;
     text-align: center;
-    color: rgb(213, 114, 26);
+    color: rgb(255, 240, 27);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .sunflower a:hover{
-    color: rgb(255, 184, 121);
+    color: rgb(255, 252, 207);
     text-decoration: underline;
 }
 
-.wild-flower{
+.wild-flowers{
    font-family: "Tangerine", cursive;
     font-weight: 700;
     font-style: normal;
@@ -125,17 +125,17 @@ footer{
     margin-top: 100px;
     text-align: center;
 }
-.wild-flower a{
+.wild-flowers a{
     display: block;
     margin-bottom: 20px;
     text-align: center;
-    color: rgb(213, 114, 26);
+    color: rgb(38, 73, 5);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
-.wild-flower a:hover{
-    color: rgb(255, 184, 121);
+.wild-flowers a:hover{
+    color: rgb(216, 255, 180);
     text-decoration: underline;
 }
 

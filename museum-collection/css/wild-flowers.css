@@ -1,0 +1,541 @@
+
+
+body{
+   background-color: rgb(213, 114, 26);
+}
+
+h1{
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+   text-align: center;
+   margin-top: 50px;
+   color: rgb(13, 18, 145);
+}
+
+/*BUTTONS*/
+#Button1{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button1:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button2{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button2:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button3{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button3:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button4 {
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button4:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button5 {
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button5:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button6{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button6:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button7{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button7:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button8{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button8:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button8{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button8:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button9{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button9:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button10{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button10:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button11{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button11:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button12{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button12:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button13{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button13:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button14{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button14:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button15{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button15:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button16{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button16:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button17{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button17:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button18{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button18:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button19{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button19:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button20{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button20:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+#Button21{
+   font-size: small;
+   font-family: "Spectral", serif;
+   font-weight: 600;
+    color: rgb(43, 46, 149);
+    padding: 5px;
+    border: 2px solid rgb(13, 18, 145);
+    background-color:  rgb(213, 114, 26);
+    margin-top: 50px;
+}
+#Button21:hover{
+   color: white;
+   border: 2px solid white;
+}
+
+/*TEXT*/
+#Line1 {
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line2 {
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line3{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line4{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line5{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line6{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line7{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line8{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line9{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line10{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line11{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line12{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line13{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line14{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line15{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line16{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line17{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line18{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line19{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line20{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+#Line21{
+   display: none;
+   font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(13, 18, 145);
+}
+
+
+
+
+
+/*LINKS*/
+a{
+  font-family: "Gabarito", sans-serif;
+   display: block;
+   margin-bottom: 20px;
+   text-align: center;
+   color: rgb(13, 18, 145);
+   text-decoration: none;
+   transition: color 0.3s ease;
+}
+a:hover{
+   color: rgb(184, 236, 161);
+   text-decoration: underline;
+}
+
+/*RETURN LINK*/
+footer{
+   padding: 20px;
+   text-align: center;
+   margin-top: 60px;
+}
+
