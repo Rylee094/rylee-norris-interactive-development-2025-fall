@@ -1,16 +1,16 @@
 
 
 body{
-   background-color: rgb(213, 114, 26);
+   background-color: rgb(170, 211, 182);
 }
 
 h1{
-  font-family: "Tangerine", cursive;
-  font-weight: 700;
+ font-family: "Indie Flower", cursive;
+  font-weight: 400;
   font-style: normal;
    text-align: center;
    margin-top: 50px;
-   color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 /*BUTTONS*/
@@ -18,10 +18,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button1:hover{
@@ -33,10 +33,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button2:hover{
@@ -48,10 +48,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button3:hover{
@@ -63,10 +63,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button4:hover{
@@ -78,10 +78,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button5:hover{
@@ -93,10 +93,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button6:hover{
@@ -108,10 +108,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button7:hover{
@@ -123,10 +123,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button8:hover{
@@ -138,10 +138,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button8:hover{
@@ -153,10 +153,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button9:hover{
@@ -168,10 +168,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button10:hover{
@@ -183,10 +183,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button11:hover{
@@ -198,10 +198,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button12:hover{
@@ -213,10 +213,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button13:hover{
@@ -228,10 +228,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button14:hover{
@@ -243,10 +243,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button15:hover{
@@ -258,10 +258,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button16:hover{
@@ -273,10 +273,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button17:hover{
@@ -288,10 +288,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button18:hover{
@@ -303,10 +303,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button19:hover{
@@ -318,10 +318,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button20:hover{
@@ -333,10 +333,10 @@ h1{
    font-size: small;
    font-family: "Spectral", serif;
    font-weight: 600;
-    color: rgb(43, 46, 149);
+    color: rgb(15, 57, 28);
     padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
+    border: 2px solid rgb(15, 57, 28);
+    background-color:   rgb(170, 211, 182);
     margin-top: 50px;
 }
 #Button21:hover{
@@ -350,7 +350,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line2 {
@@ -358,7 +358,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line3{
@@ -366,7 +366,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line4{
@@ -374,7 +374,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line5{
@@ -382,7 +382,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line6{
@@ -390,7 +390,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line7{
@@ -398,7 +398,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line8{
@@ -406,7 +406,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line9{
@@ -414,7 +414,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line10{
@@ -422,7 +422,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line11{
@@ -430,7 +430,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line12{
@@ -438,7 +438,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line13{
@@ -446,7 +446,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line14{
@@ -454,7 +454,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line15{
@@ -462,7 +462,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line16{
@@ -470,7 +470,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line17{
@@ -478,7 +478,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+  color: rgb(15, 57, 28);
 }
 
 #Line18{
@@ -486,7 +486,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+ color: rgb(15, 57, 28);
 }
 
 #Line19{
@@ -494,7 +494,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+ color: rgb(15, 57, 28);
 }
 
 #Line20{
@@ -502,7 +502,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
 }
 
 #Line21{
@@ -510,7 +510,7 @@ h1{
    font-family: "Spectral", serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(13, 18, 145);
+ color: rgb(15, 57, 28);
 }
 
 
@@ -523,7 +523,7 @@ a{
    display: block;
    margin-bottom: 20px;
    text-align: center;
-   color: rgb(13, 18, 145);
+   color: rgb(15, 57, 28);
    text-decoration: none;
    transition: color 0.3s ease;
 }
