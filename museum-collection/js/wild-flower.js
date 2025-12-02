@@ -17,152 +17,144 @@ $(document).ready(function() {
 
 //BUTTON 3//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button3").click(function() {
+    $("#Line3").fadeIn(); 
+    $("#Button4").show();
   });
 });
 
 //BUTTON 4//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button4").click(function() {
+    $("#Line4").fadeIn(); 
+    $("#Button5").show();
   });
 });
 
 //BUTTON 5//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button5").click(function() {
+    $("#Line5").fadeIn(); 
+    $("#Button6").show();
   });
 });
 
 //BUTTON 6//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button6").click(function() {
+    $("#Line6").fadeIn(); 
+    $("#Button7").show();
   });
 });
 
 //BUTTON 7//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button7").click(function() {
+    $("#Line7").fadeIn(); 
+    $("#Button8").show();
   });
 });
 
 //BUTTON 8//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button8").click(function() {
+    $("#Line8").fadeIn(); 
+    $("#Button9").show();
   });
 });
 
 //BUTTON 9//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button9").click(function() {
+    $("#Line9").fadeIn(); 
+    $("#Button10").show();
   });
 });
 
 //BUTTON 10//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button10").click(function() {
+    $("#Line10").fadeIn(); 
+    $("#Button11").show();
   });
 });
 
 //BUTTON 11//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button11").click(function() {
+    $("#Line11").fadeIn(); 
+    $("#Button12").show();
   });
 });
 
 //BUTTON 12//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button12").click(function() {
+    $("#Line12").fadeIn(); 
+    $("#Button13").show();
   });
 });
 
 //BUTTON 13//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button13").click(function() {
+    $("#Line13").fadeIn(); 
+    $("#Button14").show();
   });
 });
 
 //BUTTON 14//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button14").click(function() {
+    $("#Line14").fadeIn(); 
+    $("#Button15").show();
   });
 });
 
 //BUTTON 15//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button15").click(function() {
+    $("#Line15").fadeIn(); 
+    $("#Button16").show();
   });
 });
 
 //BUTTON 16//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button16").click(function() {
+    $("#Line16").fadeIn(); 
+    $("#Button17").show();
   });
 });
 
 //BUTTON 17//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button17").click(function() {
+    $("#Line17").fadeIn(); 
+    $("#Button18").show();
   });
 });
 
 //BUTTON 18//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button18").click(function() {
+    $("#Line18").fadeIn(); 
+    $("#Button19").show();
   });
 });
 
 //BUTTON 19//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
+  $("#Button19").click(function() {
+    $("#Line19").fadeIn(); 
+    $("#Button20").show();
   });
 });
 
 //BUTTON 20//
 $(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
-    $("# ").show();
-  });
-});
-
-//BUTTON 21//
-$(document).ready(function() {
-  $("# ").click(function() {
-    $("# ").fadeIn(); 
+  $("#Button20").click(function() {
+    $("#Line20").fadeIn(); 
     $("# ").show();
   });
 });
