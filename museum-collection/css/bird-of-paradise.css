@@ -38,6 +38,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+     margin-left: 50px;
 }
 #Button2:hover{
    color: white;
@@ -53,6 +54,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 80px;
 }
 #Button3:hover{
    color: white;
@@ -68,6 +70,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 90px;
 }
 #Button4:hover{
    color: white;
@@ -83,6 +86,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 505px;
 }
 #Button5:hover{
    color: white;
@@ -98,6 +102,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 900px;
 }
 #Button6:hover{
    color: white;
@@ -112,7 +117,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+    margin-top: 60px;
+    margin-left: 700px;
 }
 #Button7:hover{
    color: white;
@@ -127,22 +133,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
-}
-#Button8:hover{
-   color: white;
-   border: 2px solid white;
-}
-
-#Button8{
-   font-size: small;
-   font-family: "Spectral", serif;
-   font-weight: 600;
-    color: rgb(43, 46, 149);
-    padding: 5px;
-    border: 2px solid rgb(13, 18, 145);
-    background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+    margin-top: 60px;
+    margin-left: 700px;
 }
 #Button8:hover{
    color: white;
@@ -157,7 +149,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+       margin-top: 60px;
+    margin-left: 700px;
 }
 #Button9:hover{
    color: white;
@@ -172,7 +165,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+      margin-top: 60px;
+    margin-left: 700px;
 }
 #Button10:hover{
    color: white;
@@ -187,7 +181,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+       margin-top: 60px;
+    margin-left: 700px;
 }
 #Button11:hover{
    color: white;
@@ -202,7 +197,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+    margin-top: 60px;
+    margin-left: 700px;
 }
 #Button12:hover{
    color: white;
@@ -217,7 +213,8 @@ h1{
     padding: 5px;
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
-    margin-top: 50px;
+      margin-top: 100px;
+    margin-left: 700px;
 }
 #Button13:hover{
    color: white;
@@ -233,6 +230,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 1200px;
 }
 #Button14:hover{
    color: white;
@@ -263,6 +261,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 1200px;
 }
 #Button16:hover{
    color: white;
@@ -283,7 +282,7 @@ h1{
    color: white;
    border: 2px solid white;
 }
-
+ 
 #Button18{
    font-size: small;
    font-family: "Spectral", serif;
@@ -293,6 +292,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 90px;
 }
 #Button18:hover{
    color: white;
@@ -308,6 +308,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 100px;
 }
 #Button19:hover{
    color: white;
@@ -323,6 +324,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 200px;
 }
 #Button20:hover{
    color: white;
@@ -338,6 +340,7 @@ h1{
     border: 2px solid rgb(13, 18, 145);
     background-color:  rgb(213, 114, 26);
     margin-top: 50px;
+    margin-left: 300px;
 }
 #Button21:hover{
    color: white;
@@ -359,6 +362,7 @@ h1{
   font-weight: 600;
   font-style: normal;
   color: rgb(13, 18, 145);
+   margin-left: 50px;
 }
 
 #Line3{
@@ -367,6 +371,7 @@ h1{
   font-weight: 600;
   font-style: normal;
   color: rgb(13, 18, 145);
+  margin-left: 80px;
 }
 
 #Line4{
